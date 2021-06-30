@@ -6,7 +6,7 @@
   <br />
 </h3>
 
-# Golang for Node.js Developers
+# 写给 Node.js 开发者的 Golang 学习书 
 
 > Examples of [Golang](https://golang.org/) examples compared to [Node.js](https://nodejs.org/) for learning
 
